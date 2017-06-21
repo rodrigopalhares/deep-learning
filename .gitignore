@@ -16,3 +16,11 @@ face_generation/data/
 
 
 *.gz
+
+image-classification/cifar-10-batches-py/
+
+intro-to-tensorflow/notMNIST\.pickle
+
+intro-to-tensorflow/notMNIST_test\.zip
+
+intro-to-tensorflow/notMNIST_train\.zip
